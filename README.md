@@ -2,7 +2,7 @@
 
 [![Snakemake](https://img.shields.io/badge/Snakemake-%E2%89%A57.0-brightgreen?style=flat-square)](https://snakemake.readthedocs.io)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-[![CI](https://github.com/g-Poulami/Snakemake-Genomic-Pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/g-Poulami/Snakemake-Genomic-Pipeline/actions/workflows/ci.yml)
+
 
 A reproducible, scalable genomic data processing pipeline built with **Snakemake**, demonstrating platform engineering best practices for large-scale short-read sequencing analysis. Covers the full journey from raw FASTQs to quality-controlled, aligned, and variant-called outputs.
 
