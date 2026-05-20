@@ -130,8 +130,7 @@ plot_fragment_length <- function(frag_df) {
 save_figure <- function(p, prefix, width=10, height=7) {
   dir.create(dirname(prefix), recursive=TRUE, showWarnings=FALSE)
   ggsave(paste0(prefix,".png"), plot=p, width=width, height=height, dpi=300)
-  ggsave(paste0(prefix,".pdf"), plot=p, width=width, height=height)
-  message("Saved: ", prefix, ".png / .pdf")
+  message("Saved: ", prefix, ".png")
 }
 
 combine_panels <- function(plots, ncol=NULL, ...) {
