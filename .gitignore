@@ -7,7 +7,6 @@ data/*.vcf.gz.tbi
 data/damage_profile.csv
 admixture/*.Q
 admixture/logs/*.log
-figures/*.png
 figures/*.pdf
 output/*.vcf.gz
 output/*.csv
