@@ -480,7 +480,7 @@ set.seed(42)
 ## Author
 
 **Poulami Ghosh** — [@g-Poulami](https://github.com/g-Poulami)
-[LinkedIn](https://linkedin.com/in/poulami-ghosh-879439304) · [Google Scholar](https://scholar.google.com/scholar?q=Poulami+Ghosh)
+[LinkedIn](https://linkedin.com/in/poulami-ghosh-879439304)
 
 ---
 
