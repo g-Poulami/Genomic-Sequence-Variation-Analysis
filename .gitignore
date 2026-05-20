@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+data/*.vcf.gz
+data/*.vcf.gz.tbi
+data/damage_profile.csv
+admixture/*.Q
+admixture/logs/*.log
+figures/*.png
+figures/*.pdf
+output/*.vcf.gz
+output/*.csv
+output/*.nwk
+output/*.nexus
+.DS_Store
+Thumbs.db
